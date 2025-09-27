@@ -22,3 +22,5 @@ ros2 param set /shape_node shape cap
 ros2 param set /shape_node shape clear
 ros2 param set /shape_node shape stop
 ```
+
+[demo.webm](https://github.com/user-attachments/assets/2dc33677-15c1-427f-87dd-aa90f1ae5894)
